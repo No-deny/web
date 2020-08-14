@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Diplom.Models.Suppliers>
+
+
+@{
+    Layout = "_Layout";
+}
+
+
+<div class="addsuppliersbody">
+    <h4>Заполните форму</h4>
+    <form method="post">
+        <table>
+            <tr>
+                <td><input class="user0" placeholder="Наименование" type="text" name="Suppname" /> </td>
+            </tr>
+            <tr>
+                <td><input class="user0" placeholder="Сфера услуг" type="text" name="shortdesc" /></td>
+            </tr>
+            <tr>
+                <td><input class="user0" placeholder="Телефон" type="text" name="phone" /></td>
+            </tr>
+            <tr>
+                <td><input class="user0" placeholder="Адрес" type="text" name="adress" /></td>
+            </tr>
+            <tr>
+                <td><textarea class="user" placeholder="Описание" name="longdesc"></textarea></td>
+            </tr>
+            <tr>
+                <td><input type="file" name="img" multiple accept="image/*, image/jpeg"></td>
+            </tr>
+            <tr>
+                <td><input class="butorder btn btn-outline-dark" type="submit" value="Отправить" /> </td>
+            </tr>
+        </table>
+    </form>
+</div>

@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Поставщик.рф</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel=" stylesheet" type="text/css" />
+    <link href="~/css/Style.css" rel=" stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- шапка -->
+    <header>
+        <nav class="blockheader">
+            <div class="container1">
+
+                <div class="logo">
+                    <a class="linkheader" href="/Home/Start">Поставщик.рф</a>
+                </div>
+
+                <div class="blockphone">
+                    <a id="number-phone" href="tel:+79880000000">+7(988)-000-00-00</a>
+                    <a id="text-phone">Связаться с нами</a>
+                </div>
+
+                <div class="tbutton">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <form method="post" asp-controller="Account" asp-action="Logout">
+                            <l>@User.Identity.Name  <input class="button2" type="submit" value="Выход" /></l>
+                        </form>
+                    }
+                    else
+                    {
+                        <a class="button1" asp-controller="Account" asp-action="Login">Вход</a>
+                        <a class="button1" asp-controller="Account" asp-action="Register">Регистрация</a>
+                    }
+                </div>
+
+                <div class="blockline">
+                    <span class="blocklinestyle"><a id="blocklinestyle" href="/Home/Start">Главная</a></span>
+                    <span class="blocklinestyle"><a id="blocklinestyle" href="/Home/Index">Поставщикам</a></span>
+                    <span class="blocklinestyle"><a id="blocklinestyle" href="/Home/AddSuppliers">Партнерам</a></span>
+                    <span class="blocklinestyle"><a id="blocklinestyle" href="/Home/Request">О компании</a></span>
+                    <span class="blocklinestyle"><a id="blocklinestyle" href="/Home/Contact">Контакты</a></span>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    <!-- слайдер -->
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <!-- футер -->
+    <footer class="container">
+        <center>Контакты для связи:<a class="linkfooter" href="mailto:dmitr.nazarow2016@yandex.ru">поставщик@mail.ru</a><center href="#">Copyright &copy; <a class="linkfooter" href="/Home/Start">Поставщик.рф</a>, 2018-2020. Все права защищены.</center> </center>
+    </footer>
+    <script src="~/js/bootstrap.min.js"></script>
+</body>
+</html>

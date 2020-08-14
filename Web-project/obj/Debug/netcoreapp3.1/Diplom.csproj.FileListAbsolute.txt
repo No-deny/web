@@ -1,0 +1,157 @@
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.exe
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.csprojAssemblyReference.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorAssemblyInfo.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorAssemblyInfo.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.AssemblyInfoInputs.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.AssemblyInfo.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.TagHelpers.input.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.TagHelpers.output.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorCoreGenerate.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorTargetAssemblyInfo.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorTargetAssemblyInfo.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\staticwebassets\Diplom.StaticWebAssets.Manifest.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\staticwebassets\Diplom.StaticWebAssets.xml
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.deps.json
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.runtimeconfig.json
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.runtimeconfig.dev.json
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.pdb
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.Views.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.Views.pdb
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.Views.pdb
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.csproj.CopyComplete
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.dll
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.pdb
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.genruntimeconfig.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Moredetails.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Request.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Start.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ProDe\Documents\Visual Studio 2019\Project\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddSuppliers.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.exe
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.deps.json
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.runtimeconfig.json
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.runtimeconfig.dev.json
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.pdb
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.Views.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Diplom.Views.pdb
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.csprojAssemblyReference.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.AssemblyInfoInputs.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.AssemblyInfo.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorAssemblyInfo.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorAssemblyInfo.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.TagHelpers.input.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.TagHelpers.output.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorCoreGenerate.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddSuppliers.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Moredetails.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Request.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Start.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorTargetAssemblyInfo.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.RazorTargetAssemblyInfo.cs
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.Views.pdb
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.csproj.CopyComplete
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\staticwebassets\Diplom.StaticWebAssets.Manifest.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\staticwebassets\Diplom.StaticWebAssets.xml
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.pdb
+C:\Users\ProDe\Desktop\Diplom\Diplom\obj\Debug\netcoreapp3.1\Diplom.genruntimeconfig.cache
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ProDe\Desktop\Diplom\Diplom\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

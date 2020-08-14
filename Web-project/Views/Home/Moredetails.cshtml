@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Diplom.Models.Suppliers>
+
+@{
+    Layout = "_Layout";
+}
+
+
+    <div class="morebody">
+        @{ foreach (var s in Model)
+            {
+                <div>
+                    <img class=" img-thumbnail" width="200" height="150" src="~/img/@s.img" />
+                    <h3>@s.Suppname</h3>
+                    <a>@s.shortdesc</a><br/>
+                    <a>@s.longdesc</a><br/>
+                    <a>@s.phone</a><br/>
+                    <a>@s.adress</a><br/><br />
+                    <a href="/Home/Request/@s.Id" class="btn btn-outline-dark">Связаться</a>
+                </div>
+               
+            } }
+    </div>

@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Diplom.Models.Suppliers>
+@{
+    Layout = "_Layout";
+}
+
+<h5>Заполните следующие поля:</h5>
+<div class="requestbody">
+    <form method="post">
+        <table>
+            <tr>
+                <td><input class ="user0"  placeholder="Ваше имя" type="text" name="UserName" /> </td>
+            </tr>
+            <tr>
+                <td><input class ="user0" placeholder="Ваш Email" type="text" name="Email" /></td>
+            </tr>
+            <tr>
+                <td><input class ="user0" placeholder="Телефон" type="text" name="ContactPhone" /></td>
+            </tr>
+            <tr>
+                <td><textarea class ="user" placeholder="Сообщение" name="Message"></textarea></td>
+            </tr>
+            <tr>
+            <td><input class="butorder btn btn-outline-dark" type="submit" value="Отправить" /> </td>
+            </tr>
+        </table>
+    </form>
+</div>

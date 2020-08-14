@@ -1,0 +1,186 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100%;
+    width: 100%;
+    background: #808080;
+    margin-bottom: 10%;
+}
+header {
+    height: 85px;
+    color: #808080;
+    background: #343a40;
+}
+.container1 {
+    padding: 5px;
+}
+/*Лого*/
+.logo {
+    margin-top: 20px;
+    margin-left: 5%;
+    color: #808080;
+}
+/*Телефон*/
+.blockphone {
+    margin-top: -40px;
+    margin-left: 42%;
+}
+#number-phone {
+    color: white;
+}
+#text-phone {
+    color: #808080;
+}
+/*Горизонтальное меню*/
+.blockline {
+    margin-left: 35%;
+}
+.blocklinestyle {
+    float: left;
+    margin: 0 10px;
+    color: #808080;
+}
+#blocklinestyle {
+    color: #808080;
+}
+/*Кнопки*/
+.tbutton {
+    margin-top: -12px;
+    margin-left: 82%;
+}
+.button1 {
+    padding: 2px;
+    background: #808080;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 100px;
+    color: white;
+}
+.button2 {
+    padding: 2px;
+    background: #808080;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 100px;
+    color: white;
+}
+.butlog {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.butreg{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.butorder {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.butreg0 {
+    color: #343a40;
+    padding-bottom: 15px;
+    text-decoration: underline;
+}
+.addbutton {
+    padding: 2px;
+    background: #343a40;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 100px;
+    color: #808080;
+    margin-left: 100%;
+}
+.search {
+    margin-left: 70%;
+    margin-top: 2%;
+    margin-bottom: -2%;
+}
+.searchbutton {
+    padding: 1px;
+    background: #343a40;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 70px;
+    color: #808080;
+    margin-left: -1%;
+}
+/*Формы*/
+.logbody {
+    margin-top: 5%;
+    margin-left: 30%;
+    font-size: 16px;
+}
+.regbody {
+    margin-top: 5%;
+    margin-left: 30%;
+    font-size: 16px;
+}
+
+.logvalidation {
+    font-size: 24px;
+}
+
+.indexbody {
+    margin-left: 15%;
+}
+.morebody {
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.supp {
+    padding-bottom: 30px;
+}
+.requestbody {
+    margin-left: 15%;
+}
+.сontactbody {
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.addsuppliersbody {
+    margin-top: 5%;
+    margin-left: 15%;
+    padding-bottom: 10px;
+}
+.link {
+    color: #343a40;
+    text-decoration: underline;
+}
+.linkfooter {
+    color: #808080;
+    text-decoration: underline;
+}
+.linkheader {
+    color: #808080;
+}
+.indexh2 {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+h5 {
+    margin-left: 12%;
+}
+.user0 {
+    width: 200px;
+    margin-bottom: 3px;
+}
+.user {
+    width: 200px; 
+    height: 80px; 
+    font-size: 1em; 
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    min-width: 100%;
+    height: 50px;
+    color: #808080;
+    background: #343a40;
+}
+
+
+
+

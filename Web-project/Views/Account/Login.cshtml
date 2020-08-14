@@ -1,0 +1,26 @@
+﻿@model Diplom.ViewModels.LoginModel
+
+
+    <div class="logbody">
+        <h2>Вход на сайт</h2>
+
+
+
+        <form asp-action="Login" asp-controller="Account" asp-anti-forgery="true">
+            <div class="logvalidation" asp-validation-summary="ModelOnly" />
+            <div>
+                <div class="form-group">
+                    <input size="22" placeholder="Логин" asp-for="Email" />
+                    <span asp-validation-for="Email" />
+                </div>
+                <div >
+                    <input size="22" placeholder="Пароль" asp-for="Password" />
+                    <span asp-validation-for="Password" />
+                </div>
+                <a class="butreg0" asp-action="Register" asp-controller="Account">Нет аккаунта?</a>
+                <div class="butlog">
+                    <input type="submit" value="Войти" class="btn btn-outline-dark" />
+                </div>
+            </div>
+        </form>
+    </div>
